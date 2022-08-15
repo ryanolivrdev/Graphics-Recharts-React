@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #121214;
+  color: #202024;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-smooth: always;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+.graficos {
+  margin-top: 3rem;
+  margin-left: 3rem;
+  padding: 2rem;
+  background-color: #e1e1e6;
+  border-radius: 5px;
+
+  max-width: 50rem;
+}

@@ -1,0 +1,97 @@
+{
+  "grafico01": [
+    {
+      "name": "Conteudo1",
+      "date": "01/08",
+      "AvAlunoGrupo": 1,
+      "AvProfessor": 2
+    },
+    {
+      "name": "Conteudo2",
+      "date": "02/08",
+      "AvAlunoGrupo": 3,
+      "AvProfessor": 3
+    },
+    {
+      "name": "Conteudo3",
+      "date": "03/08",
+      "AvAlunoGrupo": 4,
+      "AvProfessor": 4
+    },
+    {
+      "name": "Conteudo4",
+      "date": "04/08",
+      "AvAlunoGrupo": 3,
+      "AvProfessor": 2
+    },
+    {
+      "name": "Conteudo5",
+      "date": "05/08",
+      "AvAlunoGrupo": 3,
+      "AvProfessor": 4
+    },
+    {
+      "name": "Conteudo6",
+      "date": "06/08",
+      "AvAlunoGrupo": 2,
+      "AvProfessor": 2
+    },
+    {
+      "name": "Conteudo7",
+      "date": "07/08",
+      "AvAlunoGrupo": 1,
+      "AvProfessor": 3
+    },
+    {
+      "name": "Conteudo8",
+      "date": "08/08",
+      "AvAlunoGrupo": 0,
+      "AvProfessor": 3
+    },
+    {
+      "name": "Conteudo9",
+      "date": "09/08",
+      "AvAlunoGrupo": 3,
+      "AvProfessor": 2
+    },
+    {
+      "name": "Conteudo10",
+      "date": "10/10",
+      "AvAlunoGrupo": 1,
+      "AvProfessor": 1
+    }
+  ],
+  "grafico02": [
+    {
+      "name": "Conteudo1",
+      "date": "01/08",
+      "AvAlunoGrupo": 1,
+      "AvProfessor": 2
+    },
+    {
+      "name": "Conteudo2",
+      "date": "02/08",
+      "AvAlunoGrupo": 3
+    },
+    {
+      "name": "Conteudo3",
+      "date": "03/08",
+      "AvAlunoGrupo": 4,
+      "AvProfessor": 4
+    },
+    {
+      "name": "Conteudo4",
+      "date": "04/08",
+      "AvAlunoGrupo": 3
+    }
+  ],
+  "grafico03": [
+    {
+      "cocacolalite": 50,
+      "cocacola": 10,
+      "pepsi": 10,
+      "agua": 10,
+      "fanta": 20
+    }
+  ]
+}
