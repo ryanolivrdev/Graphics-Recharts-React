@@ -93,5 +93,16 @@
       "agua": 10,
       "fanta": 20
     }
+  ],
+  "campoSelecao": [
+    {
+      "desafio": "desafio 1"
+    },
+    {
+      "desafio": "desafio 2"
+    },
+    {
+      "desafio": "desafio 3"
+    }
   ]
 }
