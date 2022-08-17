@@ -118,7 +118,7 @@ export function App() {
       <div className="graficos">
         <h1 style={{ marginBottom: 30 }}>Grafico - 02</h1>
         <ResponsiveContainer width={"100%"} height={250}>
-          <BarChart data={data.grafico02}>
+          <BarChart data={data.grafico02} barSize={30}>
             <CartesianGrid strokeDasharray="3 3" />
             <XAxis
               dataKey="date"
